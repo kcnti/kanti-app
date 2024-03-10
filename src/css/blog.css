@@ -1,0 +1,83 @@
+header {
+    font-size: 32px;
+    margin-top: 100px;
+    color: #E5E5CB;
+}
+
+sub-header {
+    font-size: 16px;
+    color: #E5E5CB;
+}
+
+.not-home-split {
+    border-bottom: thin solid #D5CEA3;
+    margin: 20px 0px 20px 0px;
+}
+
+.blog {
+    margin-top: 15px;
+    width: 100%;
+    padding: 15px 20px;
+    border: 1px solid #D5CEA3;
+    border-radius: 5px;
+    opacity: 0.6;
+    transition: 0.4s;
+}
+
+.blog:hover {
+    opacity: 1;
+}
+
+.blog h4 {
+    color: #E5E5CB;
+    width: auto;
+}
+
+.blog p {
+    text-align: left;
+    margin: 0;
+    color: #D5CEA3;
+}
+
+.blog span.date {
+    font-size: 10px;
+    color: #E5E5CB;
+}
+
+sub-header span.date {
+    font-size: 12px;
+    color: #D5CEA3;
+    display: block;
+}
+
+.markdown {
+    width: auto;
+}
+
+.markdown h1, h2, p {
+    text-align: left;
+    color: #D5CEA3;
+}
+
+.markdown p {
+    letter-spacing: 0.5px;
+    margin: 10px 0;
+}
+
+.markdown img {
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.markdown h4 {
+    color: #D5CEA3;
+}
+
+.markdown hr {
+    color: #D5CEA3;
+    opacity: 0.5;
+    width: 90%;
+    margin: 50px auto;
+}
