@@ -13,10 +13,10 @@ export default function About() {
             <meta name="description" content="About me" data-rh="true" />
             <meta property="og:title" content="About" data-rh="true"/>
             <meta property="og:description" content="About me" data-rh="true"/>
-            <meta property="og:image" content="https://kanti.pw/assets/preview.png" data-rh="true"/>
+            <meta property="og:image" content="https://cdn.kanti.pw/assets/preview.png" data-rh="true"/>
             <meta property="og:url" content='https://kanti.pw' data-rh="true"/>
             <meta name="twitter:card" content="summary_large_image" data-rh="true"/>
-            <meta name="twitter:image:alt" content="https://kanti.pw/assets/preview.png" data-rh="true"/>
+            <meta name="twitter:image:alt" content="https://cdn.kanti.pw/assets/preview.png" data-rh="true"/>
 
             <meta name="keywords" content="About" />
             <meta name="author" content="Kantinun" />

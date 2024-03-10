@@ -7,7 +7,7 @@ export const metadata = {
   openGraph: {
     title: "Home",
     description: "nothing special here",
-    image: "https://kanti.pw/assets/preview.png",
+    image: "https://cdn.kanti.pw/assets/preview.png",
     url: "https://kanti.pw"
   },
   keywords: "Home, About, Blog, GCC2024 Review",

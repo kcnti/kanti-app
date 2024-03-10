@@ -14,10 +14,10 @@ export default function Blog({ blogs }) {
         <meta name="description" content="Kanti's blog" data-rh="true" />
         <meta property="og:title" content="Blog" data-rh="true"/>
         <meta property="og:description" content="Kanti's blog" data-rh="true"/>
-        <meta property="og:image" content="https://kanti.pw/assets/preview.png" data-rh="true"/>
+        <meta property="og:image" content="https://cdn.kanti.pw/assets/preview.png" data-rh="true"/>
         <meta property="og:url" content='https://kanti.pw' data-rh="true"/>
         <meta name="twitter:card" content="summary_large_image" data-rh="true"/>
-        <meta name="twitter:image:alt" content="https://kanti.pw/assets/preview.png" data-rh="true"/>
+        <meta name="twitter:image:alt" content="https://cdn.kanti.pw/assets/preview.png" data-rh="true"/>
 
         <meta name="keywords" content="Blog" />
         <meta name="author" content="Kantinun" />

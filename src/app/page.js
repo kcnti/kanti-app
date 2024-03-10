@@ -11,10 +11,10 @@ export default function Home() {
         <meta name="description" content="nothing special here" data-rh="true" />
         <meta property="og:title" content="Home" data-rh="true"/>
         <meta property="og:description" content="nothing here" data-rh="true"/>
-        <meta property="og:image" content="https://kanti.pw/assets/preview.png" data-rh="true"/>
+        <meta property="og:image" content="https://cdn.kanti.pw/assets/preview.png" data-rh="true"/>
         <meta property="og:url" content='https://kanti.pw' data-rh="true"/>
         <meta name="twitter:card" content="summary_large_image" data-rh="true"/>
-        <meta name="twitter:image:alt" content="https://kanti.pw/assets/preview.png" data-rh="true"/>
+        <meta name="twitter:image:alt" content="https://cdn.kanti.pw/assets/preview.png" data-rh="true"/>
 
         <meta name="keywords" content="Home, About, Blog, GCC2024" />
         <meta name="author" content="Kantinun" />
