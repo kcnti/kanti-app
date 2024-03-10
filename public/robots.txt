@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
 
+<<<<<<< HEAD
 sitemap: https://www.kanti.pw/sitemap.xml
+=======
+sitemap: https://de-like.com/sitemap.xml
+>>>>>>> 9ef4441629f6aa9b7aab738fafcfdd2d751996f7
