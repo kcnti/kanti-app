@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+sitemap: https://de-like.com/sitemap.xml
