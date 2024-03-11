@@ -68,7 +68,7 @@ export default function About() {
                                     <li key="1">{data[title].ranking}</li>
                                     <li key="2">Issued by <span style={{ color: '#D5CEA3' }}>{data[title].issuer}</span></li>
                                     <li key="3">Date: <span style={{ color: '#D5CEA3' }}>{data[title].date}</span></li>
-                                    <li key="4">Cert: {data[title].certificates !== 'no cert' ? <Image alt={title} style={{ width: 100, display: "block" }} src={data[title].certificates.src} /> : 'no cert'}</li>
+                                    <li key="4">Cert: {data[title].certificates !== 'no cert' ? <Image width={100} height={100} alt={title} style={{ width: 100, display: "block" }} src={data[title].certificates.src} /> : 'no cert'}</li>
                                 </ul>
                             </li>
                         ))
