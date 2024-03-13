@@ -7,6 +7,6 @@ imageUrl: "https://www.shutterstock.com/image-illustration/hello-world-python-co
 ---
 
 This is how you print hello world in Python
-```python3
+```python
 print("hello world")
 ```
